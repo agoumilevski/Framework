@@ -12,7 +12,7 @@ of DSGE models in Python environment.
  - Run simulations by double-clicking on run batch file located under Framework folder.
 
 ## Content:
- - Sample model file (see `<examples/models/Toy/JLMP98.yaml>`)
+ - Sample model file (see `<models/Toy/JLMP98.yaml>`)
 
 ## Highlights:
 - Framework is written in Python language and uses only Python libraries that are available by installing Anaconda distribution in Software Center
