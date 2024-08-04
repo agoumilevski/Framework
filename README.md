@@ -27,3 +27,12 @@ of DSGE models in Python environment.
 - Framework uses Scientific Python Sparse package for large matrices algebra.
 - Following filters were implemented: Kalman (linear and non-linear models), Unscented Kalman, LRX, HP, Bandpass, Particle.  Several versions of Kalman filter and smoother algorithms were developed including diffuse and non-diffuse, multivariate and univariate filters and smoothers.
 - As a result of runs Framework generates 1 and 2 dimensional plots and saves data in excel file and in Python sqlite database.
+
+  ## DISCLAIMERS
+  - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
