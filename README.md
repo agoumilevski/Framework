@@ -7,9 +7,10 @@ This Framework aims to help economists to ease development and run
 of DSGE models in Python environment.
  
  ## How to run:
- - Create or modify existing YAML model file in examples/models folder.
+ - Create or modify existing YAML model file in Framework/models folder.
  - Open src/tests/test.py file and set *fname* to the name of this model file.
- - Run simulations by double-clicking on run batch file located under Framework folder.
+ - Set eorking firectory to Framework/src.
+ - Run script tests/test.py.
 
 ## Content:
  - Sample model file (see `<models/Toy/JLMP98.yaml>`)
