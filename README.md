@@ -9,7 +9,7 @@ of DSGE models in Python environment.
  ## How to run:
  - Create or modify existing YAML model file in Framework/models folder.
  - Open src/tests/test.py file and set *fname* to the name of this model file.
- - Set eorking firectory to Framework/src.
+ - Set working firectory to Framework/src.
  - Run script tests/test.py.
 
 ## Content:
