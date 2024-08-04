@@ -1,6 +1,6 @@
 # Python Framework for DSGE models
  
-## authors: Alexei Goumilevski (AGoumilevski@imf.org)
+## authors: Alexei Goumilevski (AGoumilevski@hotmail.com)
  
 ## What it is:
 This Framework aims to help economists to ease development and run 
